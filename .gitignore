@@ -1,0 +1,7 @@
+*pdf*
+commentary*
+venv/
+*checkpoints*
+
+environment_variables.*
+chroma_db/
